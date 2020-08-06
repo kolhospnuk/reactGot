@@ -1,0 +1,27 @@
+
+.header-block {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80px;
+}
+
+.header-block h3{
+    font-size: 24px;
+    color: #fff;
+    margin: 0;
+}
+
+.header-block ul{
+    display: flex;
+    margin: 0;
+    align-items: center;
+    color: #fff;
+    list-style-type: none;
+}
+
+li {
+    margin-right: 20px;
+    font-size: 18px;
+}
+

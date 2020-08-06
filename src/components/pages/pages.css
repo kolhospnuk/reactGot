@@ -1,0 +1,20 @@
+
+    form {
+        margin-bottom: 10px;
+    }
+
+    input {
+        width: 70%;
+    }
+
+    button.add-char {
+        width: 30%;
+        color: white;
+        background-color: #292947;
+        border: 2px solid white;
+        margin-bottom: 10px;
+    }
+
+    .details {
+        margin-top: 48px;
+    }
